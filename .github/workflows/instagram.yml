@@ -1,22 +1,30 @@
 name: Latest Instagram Posts
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # Midnight UTC
   workflow_dispatch: 
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Generate Instagram Feed
-        uses: snehaworld/instagram-readme-stats@master
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          username: shutterquests
-      - name: Commit changes
+          python-version: '3.x'
+          
+      - name: Install Dependencies
+        run: pip install instaloader
+        
+      - name: Run Update Script
+        run: python update_insta.py
+        
+      - name: Commit and Push
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -m "Update Instagram feed" || exit 0
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update Instagram Gallery" || exit 0
           git push
