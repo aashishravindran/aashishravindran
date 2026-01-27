@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an impact-focused Software Engineer with 7+ ye
 - 🔭 I'm currently working as an **SDE II at Amazon Web Services**
 - 🌱 I'm learning about **GenAI** and building innovative solutions
 - 💬 Ask me about **Java, Python, AWS, cloud infrastructure, and backend development**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aashishravindran) | [Portfolio](https://aashishravindran.github.io/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aashish-ravindran-546b89aa/) | [Portfolio](https://aashishravindran.github.io/)
 
 ## Professional Experience
 
