@@ -22,7 +22,7 @@
 
 ### 📸 The Scenic Route
 When I'm not in the terminal, I'm usually out in the wild or in the gym.
-* **Photography:** I run **[@shutterquests](https://www.instagram.com/shutterquests)**, focusing on PNW landscapes. Most of my "screen time" outside of code is spent in **Adobe Lightroom** post-processing sunrises and the aurora borealis.
+* **Photography:** I run **[@shutterquests](https://www.instagram.com/shutterquests)**, focusing on PNW landscapes. Most of my screen time outside of code is spent in **Adobe Lightroom** post-processing sunrises and the aurora borealis.
 * **Hiking:** Frequent explorer of U.S. National Parks—North Cascades and Rainier are my second homes.
 * **Fitness:** Dedicated to staying active, whether it's hitting a heavy lifting session at the gym or staying consistent with high-intensity training.
 
