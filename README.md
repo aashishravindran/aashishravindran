@@ -55,4 +55,4 @@ Welcome to my GitHub profile! I'm an impact-focused Software Engineer with 7+ ye
 ---
 
 📍 **Location:** Seattle, WA  
-🔗 **Connect with me:** [GitHub](https://github.com/aashishravindran) | [LinkedIn](https://linkedin.com/in/aashishravindran) | [Portfolio](https://aashishravindran.github.io/)
+🔗 **Connect with me:** [GitHub](https://github.com/aashishravindran) | [LinkedIn](https://www.linkedin.com/in/aashish-ravindran-546b89aa/) | [Portfolio](https://aashishravindran.github.io/)
