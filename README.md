@@ -16,6 +16,9 @@
 ### 🚀 What I'm Building
 * **At AWS:** I focus on automating infrastructure and optimizing deployment velocity. I recently developed the team’s first **Model Context Protocol (MCP) server** for CloudWatch to streamline log analysis.
 * **In the Lab:** Deep-diving into **Generative AI** and building **RAG-integrated** backend solutions to solve real-world dev bottlenecks.
+  * [agentic-fitness-app](https://github.com/aashishravindran/agentic-fitness-app) — Agentic Fitness App demonstrating RAG and AI Agents for Nutrition and Workouts
+  * [AiAgents](https://github.com/aashishravindran/AiAgents) — AI Agents using Strands/MCP
+  * [SuperSetUI](https://github.com/aashishravindran/SuperSetUI) — Front End for the fitness app
 * **Efficiency:** Reduced quota approval times from days to minutes and accelerated infra deployments by 85%.
 
 ---
