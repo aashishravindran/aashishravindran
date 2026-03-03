@@ -20,6 +20,7 @@
   * [AiAgents](https://github.com/aashishravindran/AiAgents) — AI Agents using Strands/MCP
   * [SuperSetUI](https://github.com/aashishravindran/SuperSetUI) — Front End for the fitness app
 * **Efficiency:** Reduced quota approval times from days to minutes and accelerated infra deployments by 85%.
+* ** Currently Experimenting with a production grade RAG Style Resume
 
 ---
 
