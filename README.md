@@ -3,10 +3,10 @@
 ### 👨‍💻 SDE II @ Amazon Web Services
 *Impact-focused Software Engineer with 7+ years of experience building scalable backend systems and cloud infrastructure.*
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GenAI](https://img.shields.io/badge/GenAI-Agents-blueviolet?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Gen-green?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-Model--Context--Protocol-orange?style=for-the-badge)
@@ -14,13 +14,14 @@
 ---
 
 ### 🚀 What I'm Building
-* **At AWS:** I focus on automating infrastructure and optimizing deployment velocity. I recently developed the team’s first **Model Context Protocol (MCP) server** for CloudWatch to streamline log analysis.
+* **At AWS:** I focus on automating infrastructure and optimizing deployment velocity. I recently developed the team's first **Model Context Protocol (MCP) server** for CloudWatch to streamline log analysis.
 * **In the Lab:** Deep-diving into **Generative AI** and building **RAG-integrated** backend solutions to solve real-world dev bottlenecks.
+  * [Sentinel](https://github.com/aashishravindran/Sentinel) *(currently building)* — Compliance-as-Code for AI. Security middleware that enforces per-user access control on RAG pipelines so your LLM only ever sees what it's allowed to know.
+  * [ProductionRAG](https://github.com/aashishravindran/ProductionRAG) — A production-ready RAG app that turns a resume into an interactive chat interface, featuring hybrid BM25 + vector search, cross-encoder reranking, and RRF fusion.
   * [agentic-fitness-app](https://github.com/aashishravindran/agentic-fitness-app) — Agentic Fitness App demonstrating RAG and AI Agents for Nutrition and Workouts
   * [AiAgents](https://github.com/aashishravindran/AiAgents) — AI Agents using Strands/MCP
   * [SuperSetUI](https://github.com/aashishravindran/SuperSetUI) — Front End for the fitness app
 * **Efficiency:** Reduced quota approval times from days to minutes and accelerated infra deployments by 85%.
-* ** Currently Experimenting with a production grade RAG Style Resume
 
 ---
 
